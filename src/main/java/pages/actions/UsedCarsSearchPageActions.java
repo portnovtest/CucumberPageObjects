@@ -2,7 +2,6 @@ package pages.actions;
 
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
-import pages.locators.CarSearchPageLocators;
 import pages.locators.UsedCarsSearchPageLocators;
 import pages.utils.SeleniumDriver;
 

@@ -2,7 +2,6 @@ package runner;
 
 import com.cucumber.listener.ExtentCucumberFormatter;
 import cucumber.api.CucumberOptions;
-import cucumber.api.java.pt.E;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
 import org.testng.annotations.BeforeClass;
 
